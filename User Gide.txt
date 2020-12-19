@@ -1,0 +1,13 @@
+First Change the directory and then move the "train" and "test" folder in this directory
+
+Now run those command fpr open levelme----
+
+----> pip install labelme
+
+----> labelme
+
+After complete the all data annutation run those command for make single (.jason) file for train and test individual 
+
+----> pip install -r requirements.txt
+
+----> python labelme2coco.py check
